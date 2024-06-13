@@ -1,10 +1,8 @@
 # frozen_string_literal: true
 
-require_relative "lib/bootstrap_on_rails/version"
-
 Gem::Specification.new do |spec|
   spec.name          = "bootstrap_on_rails"
-  spec.version       = BootstrapOnRails::VERSION
+  spec.version       = "0.0.1"
   spec.authors       = ["Khoa Nguyen"]
   spec.email         = ["thanhkhoait@gmail.com"]
 
